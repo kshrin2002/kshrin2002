@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shrinidhi
 - 👀 I’m interested in coding Python, Java, HTML, CSS
 - 🌱 I’m currently learning React, R, Javascript
-- 📫 How to reach me: Email - kshrin2002@gmail.com, Instagram - @kshrin2002
+- 📫 How to reach me: Email - kshrin2002@gmail.com
 
 <!---
 kshrin2002/kshrin2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
